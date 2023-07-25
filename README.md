@@ -3,7 +3,7 @@
 <h1 >Hi 👋, I'm Vinicius Gonçalves</h1>
 <h3 >Frontend developer from BRAZIL</h3>
 
-- 🤔 My name is Vinicius Gonçalves and I'm a web developer from Petrópolis, Rio de Janeiro. I like programming and creating solutions to solve real world problems.<br>
+- 🤔 I'm a web developer from Petrópolis, Rio de Janeiro. I like programming and creating solutions to solve real world problems.<br>
 - 🔭 I’m currently working at Carbografite <br>
 - 🌱 I'm currently studying and learning SASS, VUE.JS, GIT, GITHUB, MySQL, NODE<br>  
 - 📫 How to reach me **vinicius.souza.goncalves@gmail.com**<br><br>
